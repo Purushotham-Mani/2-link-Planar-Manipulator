@@ -1,3 +1,5 @@
+This repository has not been updated since the entry task because the research is still ongoing and has not yet been made publicly available.
+
 # 2-Link Planar Manipulator
 This project is part of my initial research work, focused on simulating a two-link planar manipulator. The ultimate goal is to implement a PD controller with gravity compensation to compute the torque required for the manipulator to follow a predefined trajectory.
 
